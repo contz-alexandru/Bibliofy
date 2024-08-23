@@ -1,6 +1,6 @@
 # Bibliofy
 
-Bibliofy is an online library that provides access to a wide range of books and services for users. 
+Bibliofy is a project that i developed alongside my colleague, Nedelcu Alexandru, it is an online library that provides access to a wide range of books and services for users. 
 
 ## Features and Functionalities
 
